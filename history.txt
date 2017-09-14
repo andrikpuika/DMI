@@ -1,5 +1,5 @@
-    
-    
+    1  VirtualBox --startvm XP
+    2  man pwd
     3  cat /etc/*-release
     4  echo$0
     5  echo $0
@@ -67,3 +67,33 @@ git config --global user.email andr1kpu1ka@gmail.com
    65  history
    66  cat history.txt
    67  history > history.txt
+   68  ls -l
+   69  nano history.txt
+   70  ls
+   71  ls -l
+   72  cat history.txt
+   73  git add .
+   74  git commit -m "20170914_16_45"
+   75  git push origin master
+   76  man echo
+   77  echo
+   78  $ echo Tecmint is a community of Linux Nerds 
+   79  $ echo 
+   80  x=10
+   81  echo The value of variable x = $x 
+   82  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   83  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   84  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds" 
+   85  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+   86  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds" 
+   87  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds" 
+   88  echo -e "Tecmint \ris a community of Linux Nerds"
+   89  echo -e "Tecmint is a community \cof Linux Nerds"
+   90  echo -n "Tecmint is a community of Linux Nerds" 
+   91  echo -e "Tecmint is a community of \aLinux Nerds" 
+   92  echo * 
+   93  echo *.jpeg
+   94  echo "Test Page" > testpage 
+   95  ## Check Content
+   96  cat testpage
+   97  history > history.txt
