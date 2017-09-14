@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  man pwd
+    
+    
     3  cat /etc/*-release
     4  echo$0
     5  echo $0
@@ -44,3 +44,26 @@
    44  history
    45  history >
    46  history > history.txt
+   47  ls -l
+   48  cat
+   49  ls
+   50  cat history.txt
+   51  git init
+   52  git config --global user.email andr1kpu1ka@gmail.com
+   53  darbi$ ls
+   54  git add .
+   55  git config --global user.email andr1kpu1ka@gmail.com
+   56  git commit -m "20170914_15_55
+git commit -m "20170914_15_55"
+git config --global user.email andr1kpu1ka@gmail.com
+   57  git commit -m "20170914_15_55"
+   58  git remote add origin https://github.com/andrikpuika/DMI.git
+   59  git push origin master
+   60  ls
+   61  history
+   62  ls -l
+   63  pwd
+   64  ls -l
+   65  history
+   66  cat history.txt
+   67  history > history.txt
