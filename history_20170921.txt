@@ -1,0 +1,67 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  ls 
+    4  nano
+    5  ls -l
+    6  ls
+    7  nano
+    8  git-download.sh
+    9  whereis ls
+   10  ls -l /bin/ls
+   11  /bin/ls
+   12  echo $PATH
+   13  PATH=$PATH:~
+   14  echo $PATH
+   15  git-download.sh
+   16  whereis ls
+   17  ls -l /bin/ls
+   18  ls -l git-download.sh
+   19  chmod 744 git-download.sh
+   20  ls -l git-download.sh
+   21  ls -l
+   22  git-download.sh
+   23  ls -l
+   24  cd DMI
+   25  ls -l
+   26  nano git-download.sh 
+   27  git-download.sh 
+   28  ls -l
+   29  cd DMI
+   30  ls -l
+   31  pwd
+   32  mv ~/user/git-download.sh
+   33  mv ~/user/git-download.sh ./
+   34  mv ../user/git-download.sh ./
+   35  ls -l
+   36  ls
+   37  mv ../user/git-download.sh ./
+   38  ls ../
+   39  mv ../git-download.sh ./
+   40  ls -l
+   41  git-download
+   42  PATH=PATH$:~/DMI
+   43  git-download
+   44  ls -l
+   45  echo $PATH
+   46  LS
+   47  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   48  echo $PATH
+   49  PATH=PATH$:~/DMI
+   50  echo $PATH
+   51  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   52  PATH=$PATH:~/DMI
+   53  echo $PATH
+   54  git-download
+   55  pwd
+   56  PATH=$PATH:~/DMI
+   57  ls -la
+   58  mv git-download.sh git-download
+   59  ls -la
+   60  git-download
+   61  ls -l
+   62  nano git-upload
+   63  ls -l
+   64  ls -la
+   65  git-download
+   66  git-upload
+   67  history > history_20170921.txt
